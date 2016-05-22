@@ -1693,7 +1693,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0 0 0 2px #8b00b0;
 		}
 
 	.select-wrapper {
@@ -1804,7 +1804,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0 0 0 2px #8b00b0;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2634,7 +2634,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #8b00b0;
 			color: #c7ebe8;
 		}
 
@@ -2699,7 +2699,7 @@
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #21b2a6;
+				color: #8b00b0;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -3153,7 +3153,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #8b00b0;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3694,7 +3694,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #c57fd7;
+		background-color: #8b00b0;
 		text-align: center;
 	}
 
@@ -3802,5 +3802,5 @@
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #c57fd7;
+		background-color: #8b00b0;
 	}
