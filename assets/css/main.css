@@ -3694,7 +3694,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #c57fd7;
 		text-align: center;
 	}
 
@@ -3802,5 +3802,5 @@
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+		background-color: #c57fd7;
 	}
