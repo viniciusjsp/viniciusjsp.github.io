@@ -3695,6 +3695,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
+		opacity: .9;
 		background-color: #6E2B77;
 		text-align: center;
 	}
