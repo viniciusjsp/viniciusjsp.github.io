@@ -10,8 +10,8 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #4fd2c2 !default;
-$brand-secondary: #4fd2c2 !default;
+$brand-primary: #6E2B77 !default;
+$brand-secondary: #44C7C4 !default;
 $brand-white: #fff;
 $brand-black: #000;
 $brand-darker: #444;
@@ -289,7 +289,6 @@ h1, h2, h3, h4, h5, h6 {
 		display: block;
 		float: left;
 		width: 100%;
-		text-transform: uppercase;
 		color: $brand-black;
 		letter-spacing: 1px;
 		font-weight: bold;
@@ -415,7 +414,6 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: left;
 	font-weight: bold;
 	@include inline-block;
-	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 20px;
 	float: left!important;
@@ -1193,7 +1191,6 @@ pre {
 			border: 2px solid #9a9fa5;
 			float: left;
 			padding: 7px 10px 7px 12px;
-			text-transform: uppercase;
 			&:hover, &:active, &:focus {
 				color: $brand-white;
 				border-color: $brand-white;
