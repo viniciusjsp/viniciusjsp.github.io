@@ -5820,12 +5820,12 @@ body {
     overflow-x: hidden; }
 
 a {
-  color: #44C7C4;
+  color: #8b5592;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #44C7C4;
+    color: #8b5592;
     outline: none; }
 
 p {
@@ -5951,9 +5951,9 @@ h1, h2, h3, h4, h5, h6 {
         #fh5co-offcanvass ul li a:hover, #fh5co-offcanvass ul li a:focus, #fh5co-offcanvass ul li a:active {
           outline: none;
           text-decoration: none;
-          color: #44C7C4; }
+          color: #8b5592; }
       #fh5co-offcanvass ul li.active a {
-        color: #44C7C4 !important; }
+        color: #8b5592 !important; }
   #fh5co-offcanvass.fh5co-awake {
     -webkit-transform: translateX(0px);
     -moz-transform: translateX(0px);
@@ -6242,7 +6242,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   margin-bottom: 20px; }
   #fh5co-features-3 .fh5co-icon i {
-    color: #44C7C4; }
+    color: #8b5592; }
 
 #fh5co-features-2 .fh5co-text-wrap {
   margin-top: 5em; }
@@ -6264,7 +6264,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   margin-bottom: 20px; }
   #fh5co-features-2 .fh5co-icon i {
-    color: #44C7C4; }
+    color: #8b5592; }
 @media screen and (max-width: 992px) {
   #fh5co-features-2 .fh5co-image {
     margin-top: 30px; } }
@@ -6301,14 +6301,14 @@ h1, h2, h3, h4, h5, h6 {
         top: 17px; } }
     #fh5co-faqs .faq-accordion .faq-accordion-icon-toggle i {
       font-size: 20px;
-      color: #44C7C4; }
+      color: #8b5592; }
   #fh5co-faqs .faq-accordion h3 {
     font-size: 26px;
     line-height: 1.5;
     font-weight: 400;
     margin: 0;
     padding: 0;
-    color: #44C7C4;
+    color: #8b5592;
     cursor: pointer;
     position: relative;
     display: block; }
@@ -6334,7 +6334,7 @@ h1, h2, h3, h4, h5, h6 {
     -ms-box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.05);
     box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.05); }
     #fh5co-faqs .faq-accordion.active h3 {
-      color: #44C7C4; }
+      color: #8b5592; }
     #fh5co-faqs .faq-accordion.active .faq-accordion-icon-toggle {
       -webkit-transform: rotate(-180deg);
       -moz-transform: rotate(-180deg);
@@ -6369,7 +6369,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin: 0 auto;
     position: relative;
-    border: 2px solid #44C7C4;
+    border: 2px solid #8b5592;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -6381,7 +6381,7 @@ h1, h2, h3, h4, h5, h6 {
       display: table-cell;
       vertical-align: middle;
       font-size: 50px;
-      color: #44C7C4; }
+      color: #8b5592; }
   .fh5co-feature .fh5co-feature-lead, .fh5co-feature .fh5co-figure-lead, .fh5co-figure .fh5co-feature-lead, .fh5co-figure .fh5co-figure-lead {
     font-size: 12px;
     letter-spacing: 2px;
@@ -6403,7 +6403,7 @@ h1, h2, h3, h4, h5, h6 {
       .fh5co-feature:hover, .fh5co-feature.active, .fh5co-figure:hover, .fh5co-figure.active {
         margin-top: 0px; } }
     .fh5co-feature:hover .fh5co-feature-icon, .fh5co-feature.active .fh5co-feature-icon, .fh5co-figure:hover .fh5co-feature-icon, .fh5co-figure.active .fh5co-feature-icon {
-      background: #44C7C4; }
+      background: #8b5592; }
       .fh5co-feature:hover .fh5co-feature-icon i, .fh5co-feature.active .fh5co-feature-icon i, .fh5co-figure:hover .fh5co-feature-icon i, .fh5co-figure.active .fh5co-feature-icon i {
         color: #fff; }
 
@@ -6590,7 +6590,7 @@ pre {
   font-weight: 400; }
   .btn:hover, .btn:focus, .btn:active {
     outline: none !important;
-    background: #32a6a4 !important;
+    background: #6c4272 !important;
     border-color: transparent !important; }
   .btn:hover {
     border-color: transparent;
@@ -6615,7 +6615,7 @@ pre {
     color: #fff; }
 
 .btn-primary {
-  background: #44C7C4; }
+  background: #8b5592; }
 
 .btn-success {
   background: #5cb85c; }
@@ -6720,7 +6720,7 @@ pre {
   #fh5co-footer a {
     color: #9a9fa5; }
     #fh5co-footer a:hover, #fh5co-footer a:active, #fh5co-footer a:focus {
-      color: #44C7C4; }
+      color: #8b5592; }
   #fh5co-footer .fh5co-footer-logo {
     display: block;
     float: left;
@@ -6841,7 +6841,7 @@ pre {
 
 .fh5co-social-icons > a {
   margin-right: 10px;
-  color: #44C7C4; }
+  color: #8b5592; }
   .fh5co-social-icons > a:hover, .fh5co-social-icons > a:focus, .fh5co-social-icons > a:active {
     text-decoration: none; }
 
