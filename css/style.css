@@ -5880,7 +5880,7 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     margin-top: 0px;
     top: 0;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #6E2B77;
     -webkit-transform: translateY(0%);
     -moz-transform: translateY(0%);
     -ms-transform: translateY(0%);
@@ -5897,7 +5897,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   z-index: 89; }
   #fh5co-page.fh5co-sleep {
-    border-right: 1px solid #ccc;
+    border-right: 1px solid #6E2B77;
     -webkit-transform: translateX(-290px);
     -moz-transform: translateX(-290px);
     -ms-transform: translateX(-290px);
@@ -5932,7 +5932,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-offcanvass .fh5co-lead {
     font-size: 12px;
     letter-spacing: 2px;
-    color: #ccc;
+    color: #6E2B77;
     text-transform: uppercase;
     margin-bottom: 20px; }
   #fh5co-offcanvass ul {
@@ -5945,7 +5945,7 @@ h1, h2, h3, h4, h5, h6 {
       #fh5co-offcanvass ul li a {
         display: block;
         padding: 10px 4px;
-        border-bottom: 1px solid #eaeaea;
+        border-bottom: 1px solid #6e2b77;
         font-size: 18px;
         color: #444; }
         #fh5co-offcanvass ul li a:hover, #fh5co-offcanvass ul li a:focus, #fh5co-offcanvass ul li a:active {

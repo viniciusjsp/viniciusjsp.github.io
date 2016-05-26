@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 		position: fixed;
 		margin-top: 0px;
 		top: 0;
-		border-bottom: 1px solid $brand-gray;
+		border-bottom: 1px solid $brand-primary;
 
 		-webkit-transform: translateY(0%);
 		-moz-transform: translateY(0%);
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 	// -ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.3);
 	// box-shadow: 0 0 9px 0 rgba(0,0,0,.3);
 	&.fh5co-sleep {
-		border-right: 1px solid $brand-gray;
+		border-right: 1px solid $brand-primary;
 		-webkit-transform: translateX(-290px);
 		-moz-transform: translateX(-290px);
 		-ms-transform: translateX(-290px);
@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 	.fh5co-lead {
 		font-size: 12px;
 		letter-spacing: 2px;
-		color: $brand-gray;
+		color: $brand-primary;
 		text-transform: uppercase;
 		margin-bottom: 20px;	
 	}
@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 			a {
 				display: block;
 				padding: 10px 4px;
-				border-bottom: 1px solid #eaeaea;
+				border-bottom: 1px solid #6e2b77;
 				font-size: 18px;
 				color: $brand-darker;
 				&:hover, &:focus, &:active {
