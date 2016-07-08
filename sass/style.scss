@@ -10,7 +10,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #6E2B77 !default;
+$brand-primary: 9998 !default;
 $brand-secondary: #8b5592 !default;
 $brand-white: #fff;
 $brand-black: #000;
@@ -25,7 +25,7 @@ $brand-bg-color: $brand-white;
 $input-border-focus:  $brand-primary !default;
 $form-group-margin-bottom:       30px !default;
 
-$navbar-height:                  60px !default;
+$navbar-height:                  70px !default;
 
 // Mixin
 @mixin transition($transition) {
@@ -411,7 +411,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 .navbar-brand {
-	text-align: left;
+	text-align: Center;
 	font-weight: bold;
 	@include inline-block;
 	letter-spacing: 2px;
@@ -1188,6 +1188,7 @@ pre {
 			font-size: 20px;
 			letter-spacing: 2px;
 			color: $brand-gray;
+			text-align: Center;
 			border: 2px solid #9a9fa5;
 			float: left;
 			padding: 7px 10px 7px 12px;
