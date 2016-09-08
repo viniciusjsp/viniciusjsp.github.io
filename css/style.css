@@ -6093,7 +6093,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   font-size: 15px;
   float: left !important;
   font-family: "Montserrat", arial, sans-serif;
