@@ -10,7 +10,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: 9998 !default;
+$brand-primary: #6e2b77 !default;
 $brand-secondary: #8b5592 !default;
 $brand-white: #fff;
 $brand-black: #000;
@@ -25,7 +25,7 @@ $brand-bg-color: $brand-white;
 $input-border-focus:  $brand-primary !default;
 $form-group-margin-bottom:       30px !default;
 
-$navbar-height:                  70px !default;
+$navbar-height:                  60px !default;
 
 // Mixin
 @mixin transition($transition) {
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 		position: fixed;
 		margin-top: 0px;
 		top: 0;
-		border-bottom: 1px solid $brand-primary;
+		border-bottom: 1px solid $brand-gray;
 
 		-webkit-transform: translateY(0%);
 		-moz-transform: translateY(0%);
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 	// -ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.3);
 	// box-shadow: 0 0 9px 0 rgba(0,0,0,.3);
 	&.fh5co-sleep {
-		border-right: 1px solid $brand-primary;
+		border-right: 1px solid $brand-gray;
 		-webkit-transform: translateX(-290px);
 		-moz-transform: translateX(-290px);
 		-ms-transform: translateX(-290px);
@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 	.fh5co-lead {
 		font-size: 12px;
 		letter-spacing: 2px;
-		color: $brand-primary;
+		color: $brand-gray;
 		text-transform: uppercase;
 		margin-bottom: 20px;	
 	}
@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 			a {
 				display: block;
 				padding: 10px 4px;
-				border-bottom: 1px solid #6e2b77;
+				border-bottom: 1px solid #eaeaea;
 				font-size: 18px;
 				color: $brand-darker;
 				&:hover, &:focus, &:active {
@@ -289,6 +289,7 @@ h1, h2, h3, h4, h5, h6 {
 		display: block;
 		float: left;
 		width: 100%;
+		text-transform: uppercase;
 		color: $brand-black;
 		letter-spacing: 1px;
 		font-weight: bold;
@@ -411,11 +412,12 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 .navbar-brand {
-	text-align: Center;
+	text-align: left;
 	font-weight: bold;
 	@include inline-block;
+	text-transform: uppercase;
 	letter-spacing: 2px;
-	font-size: 20px;
+	font-size: 15px;
 	float: left!important;
 	font-family: $font-monsterrat;
 	color: $brand-white;
@@ -1188,10 +1190,10 @@ pre {
 			font-size: 20px;
 			letter-spacing: 2px;
 			color: $brand-gray;
-			text-align: Center;
 			border: 2px solid #9a9fa5;
 			float: left;
 			padding: 7px 10px 7px 12px;
+			text-transform: uppercase;
 			&:hover, &:active, &:focus {
 				color: $brand-white;
 				border-color: $brand-white;
