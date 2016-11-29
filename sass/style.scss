@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
 	@include inline-block;
 	letter-spacing: 1px;
 	font-size: 15px;
-	float: left!important;
+	float: center!important;
 	font-family: $font-monsterrat;
 	color: $brand-white;
 	z-index: 10;
